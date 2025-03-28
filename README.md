@@ -45,7 +45,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 
 Load the dataset:
 
-df = pd.read_csv("Netflix-Stock-Data.csv")
+df = pd.read_excel("NFLX.xlsx")
 
 Execute the Jupyter Notebook file Netflix-Stock-Linear-Regression.ipynb to perform the analysis.
 
